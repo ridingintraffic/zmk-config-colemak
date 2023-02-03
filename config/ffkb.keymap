@@ -84,7 +84,7 @@
             sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOLUME_DOWN &inc_dec_kp LC(RIGHT)  LC(LEFT) &inc_dec_kp LC(RIGHT)  LC(LEFT) >;
 
             bindings = <
-    &gresc     &kp Q        &kp W        &kp F       &kp P         &kp T                              &kp J        &kp L     &kp U       &kp Y         &kp SEMI       &kp BSLH
+    &gresc     &kp Q        &kp W        &kp F       &kp P         &kp B                              &kp J        &kp L     &kp U       &kp Y         &kp SEMI       &kp BSLH
     &kp TAB  &kp A        &kp R        &kp S       &hs LSHIFT T         &kp G                &trans        &kp M        &hs LSHIFT N     &kp E       &kp I         &kp O    &kp SQT
     &kp LSHIFT &kp Z        &kp X        &kp C       &kp D         &kp V                              &kp K        &kp H     &kp COMMA   &kp DOT       &kp FSLH    &kp BSLH
                             &trans      &lt 1 LALT    &kp LGUI  &kp BACKSPACE                          &mt LC(LS(LALT)) SPACE &lt 3 ENTER  &lt 2 MINUS     &trans
