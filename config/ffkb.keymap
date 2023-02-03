@@ -8,6 +8,8 @@
 #define DEFAULT 0
 #define LOWER     1
 #define RAISE     2
+#define OTHER     3
+
 
 #define TAPPING_TERM 250
 #define QUICK_TAP    150
