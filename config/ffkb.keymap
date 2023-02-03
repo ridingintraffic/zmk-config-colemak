@@ -87,7 +87,7 @@
 
             bindings = <
     &gresc     &kp Q        &kp W        &kp F       &kp P         &kp B                              &kp J        &kp L     &kp U       &kp Y         &kp SEMI       &kp BSLH
-    &kp TAB  &lt 3 A        &lt 2 R        &lt 1 S       &hs LSHIFT T         &kp G                &trans        &kp M        &hs LSHIFT N     &&lt 1 E       &lt 2 I         &lt 3 O    &kp SQT
+    &kp TAB  &lt 3 A        &lt 2 R        &lt 1 S      &hs LSHIFT T         &kp G                &trans        &kp M        &hs LSHIFT N     &lt 1 E       &lt 2 I         &lt 3 O    &kp SQT
     &kp LSHIFT &kp Z        &kp X        &kp C       &kp D         &kp V                              &kp K        &kp H     &kp COMMA   &kp DOT       &kp FSLH    &kp MINUS 
                             &trans      &lt 1 LALT    &kp LGUI  &kp BACKSPACE                          &mt LC(LS(LALT)) SPACE &lt 3 ENTER  &lt 2 MINUS     &trans
             >;
